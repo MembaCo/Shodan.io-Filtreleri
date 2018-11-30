@@ -6,9 +6,9 @@
 </p>
 <p align="center">
     <b>
-        <a href="https://twitter.com/MembaCo">ğŸ”— Memba Co.</a>
+        <a href="https://twitter.com/MembaCo">🔗— Memba Co.</a>
         &nbsp;|&nbsp;
-        <a href="http://membaco.com">MembaCo.com ğŸŒ</a>
+        <a href="http://membaco.com">MembaCo.com 🌐</a>
   </b>  
 </p>
 <h2></h2>
